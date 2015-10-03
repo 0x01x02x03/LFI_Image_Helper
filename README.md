@@ -11,6 +11,8 @@ A simple Perl script to place code phpshells in images, the script has the follo
 [+] Deleting a Tag<br>
 [+] Infect an image with PHP backdoor known<br>
 <br>
-A video with examples of use : <br>
-<br>
-https://www.youtube.com/watch?v=rF-IP4v1KHw
+An video : 
+
+[![Alt text for your video](http://img.youtube.com/vi/rF-IP4v1KHw/0.jpg)](http://www.youtube.com/watch?v=rF-IP4v1KHw)
+
+Good Bye
